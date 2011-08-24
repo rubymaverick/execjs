@@ -1,5 +1,5 @@
 $:.unshift File.expand_path('..', __FILE__)
-require 'execjs/version'
+require 'lib/execjs/version'
 
 Gem::Specification.new do |s|
   s.name    = "execjs"
